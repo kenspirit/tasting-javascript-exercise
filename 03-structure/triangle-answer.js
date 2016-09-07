@@ -1,3 +1,5 @@
+'use strict'
+
 var args = process.argv;
 var count = parseInt(args[2]);
 

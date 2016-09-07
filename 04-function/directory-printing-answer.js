@@ -1,3 +1,5 @@
+'use strict'
+
 var fileSystemObj = {
   name: 'Root',
   type: 'D',
