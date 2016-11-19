@@ -10,7 +10,7 @@ This repository is a companion for my book [Tasting JavaScript][].  It serves be
 
 Github issues can be used to achieve them.  
 
-## How to submit your questions through Github issue.
+## How to submit your questions through Github issue
 
 ### Click on `Issues` tab
 
@@ -22,7 +22,11 @@ By clicking on the `New issue` button, you can see a screen like below.  Sample 
 
 ![New Issue](./tasting-javascript-exercise-new-issue.png)
 
-A standard format is proposed for the issue subject.  It consists three part, the very first one is `chapter-xxxxxx` or `exercise-yyyyyy` which stands for the question is about which book chapter or exercise.  Two space characters after that is your environment, say Window 7 or Mac.  Then two more spaces after is the brief problem or question.  
+A standard format is proposed for the issue subject.  It consists three part:  
+
+1. The very first one is `chapter-xxxxxx` or `exercise-yyyyyy` which stands for the question is about which book chapter or exercise.  
+2. Two space characters after that is your environment, say Window 7 or Mac.  
+3. Two more spaces after is the brief problem or question.  
 
 The detail of the question and problem can be provided in the content as the sample attached.  Better formatting on source code or console output can ease other people to identify your issue and provide feedback.  
 
